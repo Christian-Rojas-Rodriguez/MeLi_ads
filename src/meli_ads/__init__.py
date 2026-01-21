@@ -1,0 +1,3 @@
+"""
+Criterio Ads package.
+"""
